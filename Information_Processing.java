@@ -113,7 +113,6 @@ public class Information_Processing {
 					
 					
 				break;
-			case 2: 
 					//String department;
 					System.out.println("Enter the following");
 					System.out.println("department\n: ");
@@ -154,11 +153,9 @@ public class Information_Processing {
 						System.out.println("nurse table insert failed");
 					}
 					
-					
 				break;
 				
 				case 3: 
-					System.out.println("Enter the following");
 					System.out.println("Enter the following");
 					System.out.println("department\n: ");
 					department = reader.nextLine();
@@ -204,8 +201,8 @@ public class Information_Processing {
 			break;
 			
 			//case 2:
-				
-
+				break;	
+			}
 		}
 	}
 
